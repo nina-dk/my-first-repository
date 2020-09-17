@@ -1,3 +1,3 @@
 # README #
 
-A test repository to practice on the git commands.
+A repository to practice on the git commands.
